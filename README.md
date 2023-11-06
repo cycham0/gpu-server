@@ -1,4 +1,4 @@
-# Help in using university server
+# Reviews(?) in using university server
 
 ## About this article
 I want to write something about how to use the university serversssss, and the difficulties I face.
